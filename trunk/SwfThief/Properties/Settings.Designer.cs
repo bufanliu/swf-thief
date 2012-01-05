@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ProcessesList.Properties
+namespace SwfThief.Properties
 {
 
 

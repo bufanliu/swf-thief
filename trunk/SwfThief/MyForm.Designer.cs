@@ -1,4 +1,4 @@
-﻿namespace ProcessesList
+﻿namespace SwfThief
 {
     partial class MyForm
     {
@@ -39,6 +39,7 @@
             this.exportBtn = new System.Windows.Forms.Button();
             this.saveFileDialog = new System.Windows.Forms.SaveFileDialog();
             this.axShockwaveFlash = new AxShockwaveFlashObjects.AxShockwaveFlash();
+            this.checkBox = new System.Windows.Forms.CheckBox();
             this.groupBox.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.axShockwaveFlash)).BeginInit();
             this.SuspendLayout();
@@ -122,11 +123,22 @@
             this.axShockwaveFlash.Size = new System.Drawing.Size(372, 316);
             this.axShockwaveFlash.TabIndex = 6;
             // 
+            // checkBox
+            // 
+            this.checkBox.AutoSize = true;
+            this.checkBox.Location = new System.Drawing.Point(600, 340);
+            this.checkBox.Name = "checkBox";
+            this.checkBox.Size = new System.Drawing.Size(48, 16);
+            this.checkBox.TabIndex = 7;
+            this.checkBox.Text = "压缩";
+            this.checkBox.UseVisualStyleBackColor = true;
+            // 
             // MyForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(761, 362);
+            this.Controls.Add(this.checkBox);
             this.Controls.Add(this.axShockwaveFlash);
             this.Controls.Add(this.exportBtn);
             this.Controls.Add(this.label1);
@@ -154,6 +166,7 @@
         private System.Windows.Forms.ListBox swfListBox;
         private System.Windows.Forms.SaveFileDialog saveFileDialog;
         private AxShockwaveFlashObjects.AxShockwaveFlash axShockwaveFlash;
+        private System.Windows.Forms.CheckBox checkBox;
     }
 }
 
