@@ -1,0 +1,17 @@
+G:\vs\SwfThief\SwfThief\bin\Debug\ProcessesList.exe
+G:\vs\SwfThief\SwfThief\bin\Debug\ProcessesList.pdb
+G:\vs\SwfThief\SwfThief\bin\Debug\zh-CN\ProcessesList.resources.dll
+G:\vs\SwfThief\SwfThief\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\vs\SwfThief\SwfThief\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\SwfThief.csproj.ResolveComReference.cache
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\ProcessesList.MyForm.resources
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\ProcessesList.Properties.Resources.resources
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\ProcessesList.MyForm.zh-CN.resources
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\zh-CN\ProcessesList.resources.dll
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\ProcessesList.exe
+G:\vs\SwfThief\SwfThief\obj\x86\Debug\ProcessesList.pdb

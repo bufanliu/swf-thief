@@ -1,0 +1,26 @@
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\bin\Release\ProcessesList.exe
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\bin\Release\ProcessesList.pdb
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.MyForm.resources
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.Properties.Resources.resources
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.exe
+C:\Users\Gaara2\documents\visual studio 2010\Projects\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.pdb
+G:\vs\ProcessesList\ProcessesList\bin\Release\ProcessesList.exe
+G:\vs\ProcessesList\ProcessesList\bin\Release\ProcessesList.pdb
+G:\vs\ProcessesList\ProcessesList\bin\Release\zh-CN\ProcessesList.resources.dll
+G:\vs\ProcessesList\ProcessesList\bin\Release\Interop.ShockwaveFlashObjects.dll
+G:\vs\ProcessesList\ProcessesList\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\ResolveAssemblyReference.cache
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.csproj.ResolveComReference.cache
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.MyForm.resources
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.Properties.Resources.resources
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.MyForm.zh-CN.resources
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\GenerateResource.read.1.tlog
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\GenerateResource.write.1.tlog
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\zh-CN\ProcessesList.resources.dll
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.exe
+G:\vs\ProcessesList\ProcessesList\obj\x86\Release\ProcessesList.pdb
