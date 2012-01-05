@@ -140,6 +140,8 @@ namespace SwfThief
                     file.Write(mStream.ToArray(), 0,(int)mStream.Length);
                     file.Flush();
                     file.Close();
+
+                    MessageBox.Show("导出swf成功,路径:" + localFilePath,"成功");
                 }
 
 
