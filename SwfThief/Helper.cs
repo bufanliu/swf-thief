@@ -5,7 +5,7 @@ using System.Text;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
 
-namespace ProcessesList
+namespace SwfThief
 {
     class Helper
     {
@@ -47,7 +47,7 @@ namespace ProcessesList
             );
 
         [DllImport("kernel32.dll")]
-        public static extern long VirtualQueryEx(IntPtr hProcess, IntPtr lpAddress, out MyForm.MEMORY_BASIC_INFORMATION lpBuffer, int dwLength);
+        public static extern long VirtualQueryEx(IntPtr hProcess, IntPtr lpAddress, out ProcessHandle.MEMORY_BASIC_INFORMATION lpBuffer, int dwLength);
 
         [DllImport("kernel32.dll")]
         public static extern bool VirtualProtectEx(IntPtr hProcess, IntPtr lpAddress,
